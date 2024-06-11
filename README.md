@@ -18,6 +18,12 @@ I have also used the geodesic distance formula [total_miles.py](total_miles.py) 
 
 # Here the results from Heatmaps:
 
+### Southern California:
+![heatmaps 2](https://github.com/mzrd91/Road-Map/assets/131927177/c41c67de-6fab-4471-a279-1fe568bc90ef)
+
+### The Zoom-Out mode:
+![heatmaps1](https://github.com/mzrd91/Road-Map/assets/131927177/680eaf2f-3f42-47ba-b0f8-8220fc00449b) 
+
 
 
 
