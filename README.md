@@ -7,5 +7,6 @@ The following data is mine, which I requested from Google Takeout. It includes a
 
 ## Step 1: Extract and Convert Data
 
-Extract Location History from Google Takeout, then Convert JSON to CSV
+Extract Location History from Google Takeout, then Convert JSON to CSV [JSON-to-CSV.py](JSON-to-CSV.py)
+
 
