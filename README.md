@@ -14,7 +14,7 @@ Extract Location History from Google Takeout, then Convert JSON to CSV [JSON-to-
 Use the following script to generate a heatmap and a trajectory map, just run [visualize-data.py](visualize-data.py) 
 
 ## How many miles have I gone so far? *Excluding flights*
-I have also used the geodesic distance formula to calculate the distance between two GPS points. As a result, the total distance driven is shown as: ** "Total distance driven: 41,091.35 miles" ** My car's mileage is currently 32,000 miles, which indicates there were times when I traveled without the car.
+I have also used the geodesic distance formula to calculate the distance between two GPS points. As a result, the total distance driven is shown as: **"Total distance driven: 41,091.35 miles"** My car's mileage is currently 32,000 miles, which indicates there were times when I traveled without the car.
 
 
 
