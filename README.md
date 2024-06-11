@@ -3,26 +3,9 @@
 # GPS Trajectory Visualization
 
 This project provides a solution for visualizing GPS trajectory data. It includes steps to extract JSON data from Google Maps Timeline, convert it to CSV format, and visualize the data on a map using Python. Additionally, it generates a heatmap and a trajectory map, which can be saved as an image.
+The following data is mine, which I requested from Google Takeout. It includes all my destinations and trips within the US so far, even showing my road trip from St. Louis, MO to Temecula, CA. With details, if we could zoom in and zoom out, it shows everything well.
 
-## Table of Contents
+## Step 1: Extract and Convert Data
 
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Code Explanation](#code-explanation)
-- [Visualization](#visualization)
-- [Acknowledgements](#acknowledgements)
-
-## Prerequisites
-
-- Python 3.x
-- Google Takeout data containing location history
-- Web browser (Chrome) and ChromeDriver
-
-## Installation
-
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/gps-trajectory-visualization.git
-   cd gps-trajectory-visualization
+Extract Location History from Google Takeout, then Convert JSON to CSV
 
