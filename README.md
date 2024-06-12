@@ -24,6 +24,9 @@ I have also used the geodesic distance formula [total_miles.py](total_miles.py) 
 ### The Zoom-Out mode:
 ![heatmaps 2](https://github.com/mzrd91/Road-Map/assets/131927177/c41c67de-6fab-4471-a279-1fe568bc90ef)
 
+### Overview by video:
+https://github.com/mzrd91/Road-Map/assets/131927177/84708eb1-8120-4ee6-8415-4760248f7db3 
+
 
 
 
