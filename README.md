@@ -16,7 +16,17 @@ Use the following script to generate a heatmap and a trajectory map, just run [v
 ## How many miles have I gone so far? *Excluding flights*
 I have also used the geodesic distance formula [total_miles.py](total_miles.py) to calculate the distance between two GPS points. As a result, the total distance driven is shown as: **"Total distance driven: 41,091.35 miles"** My car's mileage is currently 32,000 miles, which indicates there were times when I traveled without the car.
 
-# Here the results from Heatmaps:
+## Note on Performance
+
+One of the challenging aspects of this project is the slow loading time for the Trajectory map. This can be attributed to several factors:
+
+1. **Large Dataset:** The GPS data contains a significant number of points, which can be resource-intensive to load and render.
+2. **High Resolution:** The map is rendered at a high resolution, providing detailed visualizations but also increasing loading times.
+
+If you experience slow loading times, consider optimizing the dataset size, reducing the resolution, or ensuring sufficient system resources are available.
+
+
+# Here are the results from Heatmaps:
 
 ### Southern California:
 ![heatmaps1](https://github.com/mzrd91/Road-Map/assets/131927177/680eaf2f-3f42-47ba-b0f8-8220fc00449b) 
