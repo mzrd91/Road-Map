@@ -7,7 +7,7 @@ The following data is mine, which I requested from Google Takeout. It includes a
 
 ## Step 1: Extract and Convert Data
 
-Extract Location History from Google Takeout, then Convert JSON to CSV [JSON-to-CSV.py](JSON-to-CSV.py)
+Extract Location History from Google Takeout, then Convert JSON to CSV [src/JSON-to-CSV.py](src/JSON-to-CSV.py)
 
 ## Step 2: Visualize Data in both heatmaps.html and Trajedy.html
 ### Generate Heatmap and Trajectory Map
